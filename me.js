@@ -15,9 +15,9 @@ document.getElementById("funFactBtn").addEventListener("click", function() {
 
 
 document.getElementById("myName").addEventListener("click", function() {
-    this.style.color = "#00bfff"; // change to your favorite color
+    this.style.color = "#1900ff"; // change to your favorite color
 });
 
 document.getElementById("colorBtn").addEventListener("click", function() {
-    document.getElementById("myName").style.color = "#00bfff";
+    document.getElementById("myName").style.color = "#ff0000";
 });
