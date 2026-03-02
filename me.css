@@ -59,3 +59,10 @@ ul li {
     font-size: 0.8em;
     color: #555;
 }
+
+.main-picture {
+    display: block;
+    margin: 20px auto;
+    width: 200px;   /* optional */
+    border-radius: 8px; /* optional */
+}
