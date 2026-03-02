@@ -1,0 +1,61 @@
+/* Page Background + Fonts */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(160deg, #f0f4f7, #d9e2ec);
+    color: #222;
+}
+
+/* Header (Hero) */
+.hero-section {
+    background-color: #334e68;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.hero-section .subtitle {
+    font-size: 1.2em;
+    margin-top: 5px;
+    opacity: 0.8;
+}
+
+/* Main Content */
+.main-content {
+    max-width: 760px;
+    margin: 20px auto;
+    padding: 0 15px;
+}
+
+/* Section Headings */
+.main-content section {
+    background: white;
+    border-radius: 6px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.main-content h2 {
+    margin-top: 0;
+    border-bottom: 2px solid #334e68;
+    padding-bottom: 6px;
+    font-size: 1.3em;
+}
+
+/* Lists */
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 6px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 8px 0;
+    font-size: 0.8em;
+    color: #555;
+}
