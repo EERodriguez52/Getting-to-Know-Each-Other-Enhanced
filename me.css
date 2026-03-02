@@ -6,6 +6,14 @@ body {
     color: #222;
 }
 
+/* Main Picture */
+.main-picture {
+    display: block;
+    margin: 20px auto;
+    width: 200px;   /* optional */
+    border-radius: 8px; /* optional */
+}
+
 /* Header (Hero) */
 .hero-section {
     background-color: #334e68;
@@ -60,9 +68,3 @@ ul li {
     color: #555;
 }
 
-.main-picture {
-    display: block;
-    margin: 20px auto;
-    width: 200px;   /* optional */
-    border-radius: 8px; /* optional */
-}
