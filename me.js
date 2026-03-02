@@ -1,9 +1,9 @@
 const funFacts = [
     "I have met former President Biden.",
-    "I served 5 years in the United States Marine Corps.",
-    "I enjoy reptile care.",
-    "I like working out regularly.",
-    "I am studying Cybersecurity."
+    "I have a dog named Yoda",
+    "My frog is named Mrs.Froggenheimer",
+    "My lizard is named Philip J. Fry.",
+    "I am deathly afraid of nuclear bombs."
 ];
 
 let currentFactIndex = 0;
